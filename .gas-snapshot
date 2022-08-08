@@ -1,0 +1,2 @@
+ContractTest:testBar() (gas: 8175)
+ContractTest:testBarRevert() (gas: 8306)
